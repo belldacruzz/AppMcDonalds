@@ -1,0 +1,15 @@
+export const colors = { 
+    background: '#fffffff',
+    foreground: '#333333',
+    mutedForeground: 'rgba(51, 51, 51, 0.55)',
+    secondaryBg: '#f5f5f5',
+    border: '#E8F2F6',
+    destructive: '#EF4444',
+    destructiveFg: '#FAFAFA',
+    primary: '#FFBC0D',
+    primaryFg: '#1a1a1a',
+    green: '#22C55E',
+    grayBadge: '#E5E7EB',
+    grayBadgeText: '#737373',
+    grayThumb: '#9CA3AF',   
+};

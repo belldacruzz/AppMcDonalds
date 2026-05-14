@@ -1,7 +1,7 @@
 import type {ImageSourcePropType} from 'react-native';
 
-export const Appimages = {
-restaurantCover: require('@assets/images/estabelecimento.png') as ImageSourcePropType,
+export const AppImages = {
+estabelecimento: require('@assets/images/estabelecimento.png') as ImageSourcePropType,
 logo: require('@assets/images/logo.png') as ImageSourcePropType,
 productComboDuploBicMac : require('@assets/images/comboduplobicmac.png') as ImageSourcePropType,
 productComboBraboMeltOnionRings : require('@assets/images/combobrabomeltonionrings.png') as ImageSourcePropType,
